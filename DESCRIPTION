@@ -1,10 +1,12 @@
 Package: notifierr
-Title: What the Package Does (one line, title case)
+Title: Desktop Notifications
 Version: 0.0-0
 Authors@R: as.person("Kirill Müller <krlmlr+r@mailbox.org> [aut, cre]")
-Description: What the package does (one paragraph)
+Description: An interface to desktop notifications, currently only Gnome Shell.
 Depends: R (>= 3.2.0)
 License: GPL-3
 LazyData: true
 Encoding: UTF-8
-GitHub: https://github.com/krlmlr/
+GitHub: https://github.com/krlmlr/notifierr
+Issues: https://github.com/krlmlr/notifierr/issues
+URL: https://krlmlr.github.io/notifierr
