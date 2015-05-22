@@ -1,6 +1,6 @@
 Package: notifierr
 Title: Desktop Notifications
-Version: 0.0-1
+Version: 0.0-2
 Authors@R: as.person("Kirill Müller <krlmlr+r@mailbox.org> [aut, cre]")
 Description: An interface to desktop notifications, currently Linux only.
 Depends: R (>= 3.2.0)
