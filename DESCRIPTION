@@ -2,7 +2,7 @@ Package: notifierr
 Title: Desktop Notifications
 Version: 0.0-1
 Authors@R: as.person("Kirill Müller <krlmlr+r@mailbox.org> [aut, cre]")
-Description: An interface to desktop notifications, currently only Gnome Shell.
+Description: An interface to desktop notifications, currently Linux only.
 Depends: R (>= 3.2.0)
 License: GPL-3
 LazyData: true
