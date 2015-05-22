@@ -4,6 +4,7 @@
 #' \code{notify-send} command.
 #'
 #' @param subject,body Message contents
+#' @export
 notify <- function(subject, body = NULL) {
   if (is.null(body))
     body <- ""
